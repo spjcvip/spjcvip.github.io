@@ -1,4 +1,4 @@
-# spjcvip.github.io
+# 视频教VIP
 
 视频教程
 
